@@ -1,2 +1,2 @@
 # NLP-topic-classifier
-University project for Natural Language Processing, purpose is making a topic classifier
+University project for Natural Language Processing, purpose is making a topic classifier with various models
